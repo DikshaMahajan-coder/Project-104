@@ -6,7 +6,7 @@ cv2.putText(img,
             "Sun",
             (100,80),
             cv2.FONT_HERSHEY_COMPLEX,
-            0.5,
+            2,
             (255,255,255)
             )
 
